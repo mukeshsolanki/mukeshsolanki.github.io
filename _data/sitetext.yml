@@ -1,0 +1,92 @@
+header:
+    title: Looking for a strategist and experienced designer/developer?
+    text: I GOT YOU COVERED
+    button: Tell Me More
+    buttonlink: "#about"
+
+about:
+    title: "About Me"
+    text: "Hardworking, highly proficient Mobile Developer with over 8 plus years’ experience and a real passion for mobile applications designing, development and deployment. Readily embracing cutting-edge technology. I have gained an in-depth understanding of the main mobile platforms and recognize the subtle differences between each. I'm very motivated and hate the idea of patchwork. Having helped develop a series of successful products on Android (Native) and iOS (Hybrid). As an Additional plus I can also build backend API’s using Ruby on Rails and Node JS. I am seeking a new opportunity that will allow me to further expand on these skills.<br/><br/>I’m constantly learning more about mobile technologies and other design-related topics, It's fascinating how we are constantly evolving and how new frameworks and designs make it better each and every day, currently playing around with machine learning on mobile devices. I spend my days working on different ideas and drinking coffee. "
+    section: about
+    image: assets/img/about/me.png
+    alt: "Me"
+
+timeline:
+    title: "Work Experience" 
+    text: "My Development Journey"
+    section: timeline
+    events:
+      - title: "Xcellence-IT"
+        year: "Nov 2011 - April 2012"
+        desc: "Bulding desktop and webapps using Java Swing and JSP"
+        image: assets/img/timeline/xcellence_it_logo.png
+        alt: Xcellence IT
+        align: left
+      - title: "Freelancing"
+        year: "Jan 2012 - Present"
+        desc: "Entered the freeworld and got exposed mobile development, Client communication, Testing Frameworks etc..."
+        image: assets/img/timeline/freelancing_logo.png
+        alt: Freelancing
+        align: right
+      - title: "KeepWorks Technologies Pvt. Ltd."
+        year: "Jan 2015 - June 2018"
+        desc: "Code optimizations, UI/UX development, Client Communication, Code Review were a few things I did here. Enterend the opensource development realm."
+        image: assets/img/timeline/keepworks_logo.png
+        alt: Keepworks       
+      - title: "Enhance-IT"
+        year: "June 2018 - Present"
+        desc: "Leading the mobile unit, Plan and prioritizing features, Along with all the sweet stuff I was already doing."
+        image: assets/img/timeline/enhance_it_logo.png
+        alt: Enhance IT
+        align: right
+    end: "Be Part <br> of My <br> Story!"
+
+toolbox:
+    title: "Toolbox"
+    text: "Things I can do"
+    section: toolbox
+    list:
+      - title: "Mobile Development"
+        desc: "For development, I write Kotlin (Preferred) & Java for Native Android development and for Hybrid apps I use Flutter with Dart (Preferred), React Native & Ionic. I can also build API's that can consume thousands of records using Node JS and Ruby on Rails. I use Android Studio for Android development and VS Code for Hybrid development and for Backend development. When time permits, I like to explore and try working on interesting opensource projects to ear a bit of extra knowledge and keep my skills fresh."
+        icon: fas fa-mobile 
+      - title: "Backend API"
+        desc: "I have been building scalable Backend API both for porfessional use and as a hobbist. I use Ruby on Rails for most of my project with postgress as my database. I can build admin panels to easily manage content/data. I can also build secure and powerfull web services using NodeJS."
+        icon: fas fa-server       
+      - title: "UI/UX Prototyping"
+        desc: "My design process always starts with a pencil and paper, scribbling ideas, and concepts, thinking about the problem and the solution. This helps me build a flawless UX for the end users. Once I have an idea of what I want to achieve, I then sit down at my computer and start with wireframes and low-level mockups. Then add the imagery, typography design and details. My high-level designs usually are made with Adobe XD and Sketch."
+        icon: fas fa-pencil-ruler
+
+portfolio:
+    title: "Portfolio"
+    text: "Some amazing apps I have contributed to."
+    section: portfolio
+    closebutton: "Close Project"
+    websitebutton: "Website"
+    playstorebutton: "Play Store"
+    appstorebutton: "App Store"
+
+opensource:
+    title: "Opensource"
+    text: "My efforts to contribute to opensource."
+    section: opensource
+    closebutton: "Close Project"
+         
+contact:
+    title: "Contact Me"
+    text: "Feel free to drop me a mail"
+    section: contact
+    
+footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://github.com/mukeshsolanki
+        icon: "fab fa-github"
+      - url: https://www.linkedin.com/in/mukeshsolanki/
+        icon: "fab fa-linkedin-in"
+      - url: https://instagram.com/themickyvirus
+        icon: "fab fa-instagram"
+      - url: https://twitter.com/themickyvirus
+        icon: "fab fa-twitter"
+
+
+# {{ site.data.sitetext.ex.ex | markdownify | default: example }}

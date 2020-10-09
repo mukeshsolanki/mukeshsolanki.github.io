@@ -1,0 +1,30 @@
+<!-- Opensource Grid -->
+<section class="page-section" id="{{ site.data.sitetext.opensource.section | default: "opensource" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext.opensource.title | markdownify | default: "Opensource" }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.sitetext.opensource.text | markdownify }}</h3>
+      </div>
+    </div>
+    <div class="row">
+    {% for project in site.opensource %}
+      <div class="col-md-4 col-sm-6 opensource-item bg-light">
+        <a class="opensource-link" data-toggle="modal" href="#o{{ forloop.index }}">
+          <div class="opensource-hover">
+            <div class="opensource-hover-content">
+              <i class="{{ site.data.style.opensource-icon | default: "fas fa-plus fa-3x" }}"></i>
+            </div>
+          </div>
+          <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
+        </a>
+        <div class="opensource-caption">
+          <h4>{{ project.caption.title }}</h4>
+          <p class="text-muted">{{ project.caption.subtitle }}</p>
+        </div>
+      </div>
+	{% endfor %}
+    </div>
+  </div>
+</section>
+{% include modals.html %}

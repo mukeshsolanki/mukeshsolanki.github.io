@@ -1,0 +1,77 @@
+<!-- Portfolio Modals -->
+{% for project in site.portfolio %}
+  <div class="portfolio-modal modal fade" id="p{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <!-- Project Details Go Here -->
+                <h2 class="text-uppercase">{{ project.title }}</h2>
+                <p class="item-intro text-muted">{{ project.subtitle }}</p>
+                <img class="img-fluid d-block mx-auto" src="{{ project.image }}" alt="{{ project.alt }}">
+                <p>{{ project.content }}</p>
+                {% if project.playstore_link %}
+                  <button class="btn btn-primary" type="button" onclick="window.open('{{ project.playstore_link }}','_blank')">
+                    <i class="fab fa-google-play"></i>
+                    {{ site.data.sitetext.portfolio.playstorebutton | default: "Play Store" }}</button>          
+                {% endif %}
+                {% if project.appstore_link %}
+                  <button class="btn btn-primary" type="button" onclick="window.open('{{ project.appstore_link }}','_blank')">
+                    <i class="fab fa-app-store"></i>
+                    {{ site.data.sitetext.portfolio.appstorebutton | default: "App Store" }}</button>          
+                {% endif %}
+                {% if project.website_link %}
+                  <button class="btn btn-primary" type="button" onclick="window.open('{{ project.website_link }}','_blank')">
+                    <i class="fab fa-chrome"></i>
+                    {{ site.data.sitetext.portfolio.websitebutton | default: "Website" }}</button>          
+                {% endif %}
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  {{ site.data.sitetext.portfolio.closebutton | default: "Close Project" }}</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endfor %}
+<!-- End Portfolio Modals -->
+<!-- Opensource Modals -->
+{% for project in site.opensource %}
+  <div class="opensource-modal modal fade" id="o{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <!-- Project Details Go Here -->
+                <h2 class="text-uppercase">{{ project.title }}</h2>
+                <p class="item-intro text-muted">{{ project.subtitle }}</p>
+                <img class="img-fluid d-block mx-auto" src="{{ project.image }}" alt="{{ project.alt }}">
+				<p>{{ project.content }}</p>		
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  {{ site.data.sitetext.opensource.closebutton | default: "Close Project" }}</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endfor %}
+<!-- End Opensource Modals -->

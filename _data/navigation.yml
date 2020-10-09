@@ -1,0 +1,21 @@
+nav:
+  - title: "About Me"
+    section: about
+
+  - title: "Work Experience"
+    section: timeline
+
+  - title: "Toolbox"
+    section: toolbox
+
+  - title: "Portfolio"
+    section: portfolio
+
+  - title: "Opensource"
+    section: opensource
+
+  - title: "Contact"
+    section: contact
+
+  - title: "Resume"
+    url: /download/mukeshsolanki-resume.pdf
