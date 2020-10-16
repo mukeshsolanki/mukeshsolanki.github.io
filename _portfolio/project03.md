@@ -1,7 +1,7 @@
 ---
 title: Findaspot
 subtitle: Meet Everyone Halfway.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/project03/full.png
 alt: Findaspot
 playstore_link: https://play.google.com/store/apps/details?id=io.findaspot.android
 appstore_link: https://apps.apple.com/us/app/findaspot/id1312481476?ls=1
@@ -10,7 +10,7 @@ website_link: https://www.findaspot.io/
 caption:
   title: Findaspot
   subtitle: Meet Everyone Halfway.
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/project03/thumbnail.png
 ---
 Save time, effort, and transportation costs when getting together with others by using Findaspot.
 We calculate the midpoint between you and up to 4 others and recommend great spots to meet

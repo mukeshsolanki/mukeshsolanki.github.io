@@ -1,7 +1,7 @@
 ---
 title: Hashtagger
 subtitle: AI powered hashtag generator.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/project02/full.png
 alt: Hashtagger
 playstore_link: https://play.google.com/store/apps/details?id=in.madapps.hashtagger
 appstore_link: https://apps.apple.com/in/app/hashtag-ai/id1508889922
@@ -10,7 +10,7 @@ website_link:
 caption:
   title: Hashtagger
   subtitle: AI powered hashtag generator.
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/project02/thumbnail.png
 ---
 Are you always looking for popular and trending hashtags? You have an awesome picture but not
 sure what hashtags to use?

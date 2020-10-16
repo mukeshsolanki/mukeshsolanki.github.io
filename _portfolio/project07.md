@@ -1,7 +1,7 @@
 ---
 title: Strong Secure VPN
 subtitle: A Simple Free VPN.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/project07/full.png
 alt: Strong Secure VPN
 playstore_link: https://play.google.com/store/apps/details?id=com.madapps.vpn
 appstore_link: 
@@ -10,7 +10,7 @@ website_link:
 caption:
   title: Strong Secure VPN
   subtitle: A Simple Free VPN.
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/project07/thumbnail.png
 ---
 No username, No password, No registration, no bandwidth limitation, High speed
 100% free! Unlimited usage! Free VPN proxy connects to the internet the way it was meant to be.

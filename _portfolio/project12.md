@@ -1,7 +1,7 @@
 ---
 title: DocBuddy
 subtitle: Medical documentation.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/project12/full.png
 alt: DocBuddy
 playstore_link: https://play.google.com/store/apps/details?id=com.docbuddy.android
 appstore_link: 
@@ -10,7 +10,7 @@ website_link:
 caption:
   title: DocBuddy
   subtitle: Medical documentation.
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/project12/thumbnail.png
 ---
 DocBuddy is an elegant solution to wasted time documenting and accessing medical records. It's like having a personal assistant at your call and always at your fingertips.
 

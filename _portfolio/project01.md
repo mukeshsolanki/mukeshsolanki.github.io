@@ -1,7 +1,7 @@
 ---
 title: HotFlix
 subtitle: Short films and Web show.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/project01/full.png
 alt: HotFlix
 playstore_link: 
 appstore_link: 
@@ -10,7 +10,7 @@ website_link:
 caption:
   title: HotFlix
   subtitle: Short films and Web show.
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/project01/thumbnail.png
 ---
 HotFlix is a video streaming app that lets you watch India’s most loved web series & award
 wining short films for free at anytime, anywhere. For all you binge watchers HotFlix has you

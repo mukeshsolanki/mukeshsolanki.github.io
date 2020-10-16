@@ -1,7 +1,7 @@
 ---
 title: Simple VPN
 subtitle: A Secure VPN Proxy.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/project06/full.png
 alt: Simple VPN
 playstore_link: https://play.google.com/store/apps/details?id=com.gsinteractive.simplevpn
 appstore_link: https://apps.apple.com/us/app/simple-vpn-easy-secure-vpn-proxy/id1281253613?ls=1
@@ -10,7 +10,7 @@ website_link: https://simple-vpn.com/
 caption:
   title: Simple VPN
   subtitle: A Secure VPN Proxy.
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/project06/thumbnail.png
 ---
 Simple VPN allows you to enjoy safe and unrestricted Internet access with the world’s most
 advanced VPN.

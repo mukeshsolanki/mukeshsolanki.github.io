@@ -1,7 +1,7 @@
 ---
 title: Spoken Word
 subtitle: Poetry at its best.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/project08/full.png
 alt: Spoken Word
 playstore_link: https://play.google.com/store/apps/details?id=com.madapps.spokenwordapp
 appstore_link: 
@@ -10,7 +10,7 @@ website_link:
 caption:
   title: Spoken Word
   subtitle: Poetry at its best.
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/project08/thumbnail.png
 ---
 Spoken Word App is a material designed app focusing on spoken word. The main purpose of this app is to make Spoken Word more accessible to everyone. Spoken word is an oral art that focuses on the aesthetics of word play and intonation and voice inflection.
 

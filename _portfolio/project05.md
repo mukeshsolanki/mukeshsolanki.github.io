@@ -1,7 +1,7 @@
 ---
 title: Protaski
 subtitle: Goal based social network.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/project05/full.png
 alt: Protaski
 playstore_link: 
 appstore_link: 
@@ -10,7 +10,7 @@ website_link: https://protaski.com/
 caption:
   title: Protaski
   subtitle: Goal based social network.
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/project05/thumbnail.png
 ---
 A social network that lets you connect to people with similar goals around the globe to enable
 you to meet those goals.

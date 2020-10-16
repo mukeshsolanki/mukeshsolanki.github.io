@@ -1,7 +1,7 @@
 ---
 title: Omnicode
 subtitle: Git client.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/project13/full.png
 alt: Omnicode
 playstore_link: https://play.google.com/store/apps/details?id=com.keepworks.omnicode
 appstore_link: 
@@ -10,7 +10,7 @@ website_link:
 caption:
   title: Omnicode
   subtitle: Git client.
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/project13/thumbnail.png
 ---
 Omnicode is a mobile client for Github and Bitbucket. It enables easy pull request reviews on the go. Use it for free and sync up to 3 repositories.
 
