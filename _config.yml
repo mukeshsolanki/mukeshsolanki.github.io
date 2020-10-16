@@ -32,7 +32,3 @@ collections:
   opensource:
 
 markdown: kramdown
-
-keep_files: [
-   '.well-known/acme-challenge'
-]
