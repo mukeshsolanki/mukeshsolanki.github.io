@@ -1,12 +1,14 @@
 ---
-title: 
+title: Liquid Refresh Layout 
 subtitle: 
 image: assets/img/opensource/project10/full.png
-alt: 
-github_link: https://www.google.com
+alt: Liquid Refresh Layout 
+github_link: https://github.com/mukeshsolanki/liquidrefreshlayout
 
 caption:
-  title: 
+  title: Liquid Refresh Layout 
   subtitle: 
   thumbnail: assets/img/opensource/project10/thumbnail.png
 ---
+Liquid Refresh Layout is a simple SwipeToRefresh library that helps you easily integrate
+SwipeToRefresh and performs simple clean liquid animation.
