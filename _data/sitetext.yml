@@ -70,6 +70,7 @@ opensource:
     text: "My efforts to contribute to opensource."
     section: opensource
     closebutton: "Close Project"
+    githubbutton: "Github"
          
 contact:
     title: "Contact Me"
