@@ -1,13 +1,13 @@
 ---
 title: Photo Filter Library
-subtitle: 
+subtitle: Filters SDK
 image: assets/img/opensource/project09/full.png
 alt: Photo Filter Library
 github_link: https://github.com/mukeshsolanki/photofilter
 
 caption:
   title: Photo Filter Library
-  subtitle: 
+  subtitle: Filters SDK
   thumbnail: assets/img/opensource/project09/thumbnail.png
 ---
 A simple easy to use library that lets you edit pictures on the fly with easy. Photo filter lets you
