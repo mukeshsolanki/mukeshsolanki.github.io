@@ -34,11 +34,16 @@ timeline:
         image: assets/img/timeline/keepworks_logo.png
         alt: Keepworks       
       - title: "Enhance-IT"
-        year: "June 2018 - Present"
+        year: "June 2018 - Dec 2020"
         desc: "Leading the mobile unit, Plan and prioritizing features, Along with all the sweet stuff I was already doing."
         image: assets/img/timeline/enhance_it_logo.png
         alt: Enhance IT
-        align: right
+        align: right       
+      - title: "Kami Vision"
+        year: "Dec 2020 - Present"
+        desc: "Leading the andorid team and building cutting-edge features to help you imporve your experience with amazing AI first hardware."
+        image: assets/img/timeline/kami_vision_logo.png
+        alt: Kami Vision
     end: "Be Part <br> of My <br> Story!"
 
 toolbox:
